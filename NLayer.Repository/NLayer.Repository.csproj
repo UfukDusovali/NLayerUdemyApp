@@ -19,8 +19,4 @@
     <ProjectReference Include="..\NLayer.Core\NLayer.Core.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="test\" />
-  </ItemGroup>
-
 </Project>
